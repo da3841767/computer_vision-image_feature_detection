@@ -19,8 +19,11 @@ The goal of feature detection and matching is to identify a pairing between a po
 ## How to Run:
 <br>
 1. Open file -> featureUI.py
+<br>
 2. Upload the images for keypoint detection
+<br>
 3. Or change the tab to 'Feature Matching' and upload the two images to show their matching features/keypoints
+<br>
 4. Try with a different image and see how cool it is
 
 
